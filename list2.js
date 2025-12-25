@@ -34,6 +34,9 @@ document.getElementById("gjr").addEventListener("click", function() {
 document.getElementById("bsj").addEventListener("click", function() {
   window.location.href = "https://wxbsj.agrleo.com/app/register.php?site_id=134523275&topId=1135078";
 });
+document.getElementById("st").addEventListener("click", function() {
+  window.location.href = "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=104234&selfPlanId=96105";
+});
 
 document.getElementById("0").innerHTML="🔥十年信誉平台推荐";
 
@@ -60,6 +63,8 @@ document.getElementById("10").innerHTML="C7";
 document.getElementById("11").innerHTML="征途国际";
 
 document.getElementById("58").innerHTML="超凡国际";
+
+document.getElementById("59").innerHTML="胜天国际";
 
 document.getElementById("12").innerHTML="PG模拟器";
 
@@ -150,5 +155,6 @@ document.getElementById("54").innerHTML="虚拟币";
 document.getElementById("55").innerHTML="其他分享&VPN-开VPN可进蓝名";
 
 document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载注册狗狗云VPN，即可突破网络封锁正常使用";
+
 
 document.getElementById("57").innerHTML="VT99.MY";
