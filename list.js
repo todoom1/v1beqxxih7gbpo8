@@ -15,7 +15,7 @@
 {img: './png/bsj.jpg', name: '保时捷', xurl: 'aHR0cHM6Ly93eGJzai5hZ3JsZW8uY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMzQ1MjMyNzUmdG9wSWQ9MTEzNTA3OA=='},
 {img: './png/dmg.png', name: '大满贯', xurl: 'aHR0cHM6Ly90ei53eC1ndWpkdHEzLmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MjIyOCZ0b3BJZD0xNzU3Nzc0'},
 {img: './svg/wd.svg', name: '问鼎娱乐', xurl: 'aHR0cHM6Ly9vbmtyY3kuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTAyMCZ0b3BJZD0zNDQ5ODA2OQ=='},
-{img: './png/c7.png', name: 'C7', xurl: 'aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q='},
+{img: './png/c7.png', name: 'C7', xurl: 'aHR0cHM6Ly8zOC4xODEuMjMuMTAyOjYwMDA1LyMvbGluaz9hbGx3aW49N1FqVUVYWGtzV3dhNmRhNkpRRSUyQnNnJTNEJTNE'},
 {img: './png/ztgj.png', name: '征途国际', xurl: 'aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMxJnB0PUE1QUVBODcxLUEwQTYtQ0E1Ni1ENzc2LUQzREUxMzJBNzNFNg=='},
 {img: './png/cfgj.png', name: '超凡国际', xurl: 'aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTIyOTg0'}
     ];
